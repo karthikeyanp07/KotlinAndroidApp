@@ -22,7 +22,7 @@ An Android application built using modern development tools and architecture to 
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="assets/images/image1.png" alt="User ListView Screenshot 1" width="300" />
+  <img src="Image1.png" alt="User ListView Screenshot 1" width="300" />
 </p>
 
 ---
